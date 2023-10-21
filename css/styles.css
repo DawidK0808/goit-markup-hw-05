@@ -152,6 +152,10 @@ button {
     left: 0px;
 }
 
+.page-link-portfolio {
+    color: var(--ocean-color);
+}
+
 .page-link-portfolio::after {
     content: "";
     display: block;
